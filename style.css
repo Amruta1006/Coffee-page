@@ -64,3 +64,7 @@ nav ul li a:hover {
     border-radius: 20px;
     font-weight: bolder;
 }
+
+.btn:hover{
+    cursor: pointer;
+}
