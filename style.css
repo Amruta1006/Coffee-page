@@ -1,0 +1,32 @@
+/* Reset default browser styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Navbar styles */
+nav ul {
+    list-style-type: none;
+    background-color:#f9f4ef;
+    font-size: 1.5rem;
+    padding: 25px 0;
+    
+}
+
+nav ul li {
+    display: inline-block;
+    margin-left: 200px;
+    text-decoration: underline;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #020826;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+nav ul li a:hover {
+    background-color: #eaddcf;
+}
