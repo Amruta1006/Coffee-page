@@ -38,9 +38,18 @@ nav ul li a:hover {
 
 .image-heading {
     position: absolute;
-    top: 50%;
+    top: 40%;
     color: #020826; 
-    font-size: 40px; 
+    font-size: 50px; 
     text-align: left;
     margin-left: 30px;
+}
+
+.coffee-description {
+    font-size: 20px;
+    color: bl;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    margin-left: 80px;
 }
