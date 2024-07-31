@@ -53,3 +53,14 @@ nav ul li a:hover {
     top: 50%;
     margin-left: 80px;
 }
+
+.btn{
+    background-color: #8c7851;
+    color: #01010f;
+    position: absolute;
+    top: 60%;
+    margin-left: 350px;
+    padding: 15px;
+    border-radius: 20px;
+    font-weight: bolder;
+}
